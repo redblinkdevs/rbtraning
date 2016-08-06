@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+hello,
+    this is our first file
+=======
+This is a first git file.
+>>>>>>> 9f3709b2e149aaa392f5cbae484b009039b4b3d7
